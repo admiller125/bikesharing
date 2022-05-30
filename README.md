@@ -13,7 +13,7 @@ popular starting locations. I also added filters that provided further breakdown
 
 To see the Tableau story click on the following link:
 
-[link to dashboard](https://public.tableau.com/app/profile/adam.miller6532/viz/CitiBikeStory_16538739445920/Story1?publish=yes)
+[link to story](https://public.tableau.com/app/profile/adam.miller6532/viz/CitiBikeStory_16538739445920/Story1?publish=yes)
 
 ### Resulting Visualizations
 
